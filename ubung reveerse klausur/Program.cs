@@ -11,6 +11,7 @@ namespace ubung_reveerse_klausur
         static void Main(string[] args)
         {
             string w
+                sadlhiyodsg
 
         }
     }
